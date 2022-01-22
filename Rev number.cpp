@@ -8,8 +8,8 @@
 #include<stdio.h>
 int main()
     {
-    	int loop      = 0;
-    	int num       = 0;
+    	        int loop      = 0;
+    	        int num       = 0;
 		int sum       = 0;
 		int reverse   = 0;
 		int remainder = 0;
